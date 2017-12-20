@@ -74,7 +74,8 @@ plt.show()
 
 Будем признательны, если вы скинете несколько строк на kartaslov@mail.ru о том, как вы планируете использовать датасет — нам это интересно, как исследователям, и поможет сделать датасет лучше в будущем.
 
-Для использования в коммерческих целях напишите нам на kartaslov@mail.ru.
+По вопросам использования датасета в коммерческих целях смотрите развёрнутый комментарий: [использование данных в коммерческих целях]. 
 
-[HDP]: <https://github.com/dkulagin/kartaslov/blob/master/readme/hdp.md>
-[CC BY-NC-SA 4.0]: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+[использование данных в коммерческих целях]: <../../readme/commercial_use.md>
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[HDP]: <../../readme/hdp.md>
